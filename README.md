@@ -1,6 +1,8 @@
 # Libre Wordpress
 The objective of this list is to gather all of [free as in freedom](https://www.gnu.org/philosophy/free-sw.html) and as in free beer plugins for WordPress.
+
 Since WordPress became a popular platform a lot of "free" plugins and themes arrived to the official repository which had their main advertised functionality crippled in favor of a "pro" version. This makes WordPress more hostile for newcomers and even for power users that are looking for a plugin that just works.
+
 Note that not all plugins in the list are completely free, as some may have sane paid versions, as they may offer features other then the main advertised one. eg: [Autoptimize](https://wordpress.org/plugins/autoptimize/), [The SEO Framework](https://wordpress.org/plugins/autodescription/).
 
 ## Spam/security
@@ -29,6 +31,7 @@ Note that not all plugins in the list are completely free, as some may have sane
 
 ## Misc
 * [Bogo](https://wordpress.org/plugins/bogo/) - A straight-forward multilingual plugin. No more double-digit custom DB tables or hidden HTML comments that could cause you headaches later on.
+*[Crelly Slider](https://wordpress.org/plugins/crelly-slider/) - A free responsive slider that supports layers. Add texts, images, videos and beautify them with transitions and animations.
 * [Contact Form 7](https://wordpress.org/plugins/contact-form-7/) - Just another contact form plugin. Simple but flexible.
     * [Contact Form 7 Honeypot](https://wordpress.org/plugins/contact-form-7-honeypot/) - Add honeypot anti-spam functionality to the popular Contact Form 7 plugin.
     * [Flamingo](https://wordpress.org/plugins/flamingo/) - A trustworthy message storage plugin for Contact Form 7.
