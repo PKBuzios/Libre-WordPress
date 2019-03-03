@@ -37,6 +37,7 @@ Note that not all plugins in the list are completely free, as some may have sane
     * [Flamingo](https://wordpress.org/plugins/flamingo/) - A trustworthy message storage plugin for Contact Form 7.
     * [Really Simple CAPTCHA](https://wordpress.org/plugins/really-simple-captcha/) - Really Simple CAPTCHA is a CAPTCHA module intended to be called from other plugins.
 * [Leaflet Map](https://wordpress.org/plugins/leaflet-map/) - A plugin for creating a Leaflet JS map with a shortcode. Boasts two free map tile services and three free geocoders.
+* [Photoswipe Masonry](https://wordpress.org/plugins/photoswipe-masonry/) - This is a image gallery plugin for WordPress built using PhotoSwipe from Dmitry Semenov.
 * [Publish Confirm](https://wordpress.org/plugins/publish-confirm/) - Once a post has been published, the confirmation dialogue will not appear anymore for that post.
 * [Regenerate Thumbnails](https://wordpress.org/plugins/regenerate-thumbnails/) - Regenerate Thumbnails allows you to regenerate all thumbnail sizes for one or more images that have been uploaded to your Media Library.
 * [Search & Replace](https://wordpress.org/plugins/search-and-replace/) - With Search & Replace you can search for everything and replace this with everything but before you do this you can easily create a simple database backup and restore it.
