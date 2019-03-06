@@ -32,6 +32,7 @@ Note that not all plugins in the list are completely free, as some may have sane
 ## Visual
 * [Crelly Slider](https://wordpress.org/plugins/crelly-slider/) - A free responsive slider that supports layers. Add texts, images, videos and beautify them with transitions and animations.
 * [Leaflet Map](https://wordpress.org/plugins/leaflet-map/) - A plugin for creating a Leaflet JS map with a shortcode. Boasts two free map tile services and three free geocoders.
+* [Lightbox with PhotoSwipe](https://wordpress.org/plugins/lightbox-photoswipe/) - Integration of [PhotoSwipe](https://photoswipe.com) for WordPress.
 * [Photoswipe Masonry](https://wordpress.org/plugins/photoswipe-masonry/) - This is a image gallery plugin for WordPress built using PhotoSwipe from Dmitry Semenov.
 
 ## Misc
