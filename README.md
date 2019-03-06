@@ -29,15 +29,17 @@ Note that not all plugins in the list are completely free, as some may have sane
 * [The SEO Framework](https://wordpress.org/plugins/autodescription/) - An automated, advanced, accessible, unbranded and extremely fast SEO solution for any WordPress website.
 * [WP Statistics](https://wordpress.org/plugins/wp-statistics/) - With WP Statistics you can know your website statistics without any need to send your users’ data anywhere. You can know how many people visit your personal or business website, where they’re coming from, what browsers and search engines they use, and which of your contents, categories, tags and users get more visits.
 
+## Visual
+* [Crelly Slider](https://wordpress.org/plugins/crelly-slider/) - A free responsive slider that supports layers. Add texts, images, videos and beautify them with transitions and animations.
+* [Leaflet Map](https://wordpress.org/plugins/leaflet-map/) - A plugin for creating a Leaflet JS map with a shortcode. Boasts two free map tile services and three free geocoders.
+* [Photoswipe Masonry](https://wordpress.org/plugins/photoswipe-masonry/) - This is a image gallery plugin for WordPress built using PhotoSwipe from Dmitry Semenov.
+
 ## Misc
 * [Bogo](https://wordpress.org/plugins/bogo/) - A straight-forward multilingual plugin. No more double-digit custom DB tables or hidden HTML comments that could cause you headaches later on.
-* [Crelly Slider](https://wordpress.org/plugins/crelly-slider/) - A free responsive slider that supports layers. Add texts, images, videos and beautify them with transitions and animations.
 * [Contact Form 7](https://wordpress.org/plugins/contact-form-7/) - Just another contact form plugin. Simple but flexible.
     * [Contact Form 7 Honeypot](https://wordpress.org/plugins/contact-form-7-honeypot/) - Add honeypot anti-spam functionality to the popular Contact Form 7 plugin.
     * [Flamingo](https://wordpress.org/plugins/flamingo/) - A trustworthy message storage plugin for Contact Form 7.
     * [Really Simple CAPTCHA](https://wordpress.org/plugins/really-simple-captcha/) - Really Simple CAPTCHA is a CAPTCHA module intended to be called from other plugins.
-* [Leaflet Map](https://wordpress.org/plugins/leaflet-map/) - A plugin for creating a Leaflet JS map with a shortcode. Boasts two free map tile services and three free geocoders.
-* [Photoswipe Masonry](https://wordpress.org/plugins/photoswipe-masonry/) - This is a image gallery plugin for WordPress built using PhotoSwipe from Dmitry Semenov.
 * [Publish Confirm](https://wordpress.org/plugins/publish-confirm/) - Once a post has been published, the confirmation dialogue will not appear anymore for that post.
 * [Regenerate Thumbnails](https://wordpress.org/plugins/regenerate-thumbnails/) - Regenerate Thumbnails allows you to regenerate all thumbnail sizes for one or more images that have been uploaded to your Media Library.
 * [Search & Replace](https://wordpress.org/plugins/search-and-replace/) - With Search & Replace you can search for everything and replace this with everything but before you do this you can easily create a simple database backup and restore it.
