@@ -38,6 +38,7 @@ Note that not all plugins in the list are completely free, as some may have sane
 ## Misc
 * [Bogo](https://wordpress.org/plugins/bogo/) - A straight-forward multilingual plugin. No more double-digit custom DB tables or hidden HTML comments that could cause you headaches later on.
 * [Contact Form 7](https://wordpress.org/plugins/contact-form-7/) - Just another contact form plugin. Simple but flexible.
+    * [Conditional Fields for Contact Form 7](https://wordpress.org/plugins/cf7-conditional-fields/) - Adds support for conditional fields to Contact Form 7.
     * [Contact Form 7 Honeypot](https://wordpress.org/plugins/contact-form-7-honeypot/) - Add honeypot anti-spam functionality to the popular Contact Form 7 plugin.
     * [Flamingo](https://wordpress.org/plugins/flamingo/) - A trustworthy message storage plugin for Contact Form 7.
     * [Really Simple CAPTCHA](https://wordpress.org/plugins/really-simple-captcha/) - Really Simple CAPTCHA is a CAPTCHA module intended to be called from other plugins.
