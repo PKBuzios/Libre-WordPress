@@ -3,7 +3,7 @@ The objective of this list is to gather all of [free as in freedom](https://www.
 
 Since WordPress became a popular platform a lot of "free" plugins and themes arrived to the official repository which had their main advertised functionality crippled in favor of a "pro" version. This makes WordPress more hostile for newcomers and even for power users that are looking for a plugin that just works.
 
-Note that not all plugins in the list are completely free, as some may have sane paid versions with features other then the main advertised one. eg: [Autoptimize](https://wordpress.org/plugins/autoptimize/), [The SEO Framework](https://wordpress.org/plugins/autodescription/).
+Note that not all plugins in the list are completely free, as some may have sane paid versions with features other then the main advertised one. eg: [Autoptimize](https://autoptimize.com/) and [The SEO Framework](https://theseoframework.com/).
 
 ## Spam/security
 * [Antispam Bee](https://wordpress.org/plugins/antispam-bee/) - Say Goodbye to comment spam on your WordPress blog or website. Antispam Bee blocks spam comments and trackbacks effectively, without captchas and without sending personal information to third party services.
