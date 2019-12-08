@@ -47,3 +47,4 @@ Note that not all plugins in the list are completely free, as some may have sane
 * [Search & Replace](https://wordpress.org/plugins/search-and-replace/) - With Search & Replace you can search for everything and replace this with everything but before you do this you can easily create a simple database backup and restore it.
 * [Server IP & Memory Usage Display](https://wordpress.org/plugins/server-ip-memory-usage/) - Show the memory limit, current memory usage and IP address in the admin footer.
 * [Simply Static](https://wordpress.org/plugins/simply-static/) - Simply Static is a static site generator for WordPress that helps you create a static site that you can serve separately from your WordPress installation.
+* [Toolbelt](https://wordpress.org/plugins/wp-toolbelt/) - More features, with a focus on privacy and speed.
